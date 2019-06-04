@@ -8,7 +8,7 @@
  */
 namespace HanGuoSoft\Distribution\Controllers;
 
-class DistributionControlle extends Controller
+class DistributionController extends Controller
 {
     /**
      * 测试分销
