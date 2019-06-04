@@ -1,7 +1,7 @@
 {
-    "name": "hanguosoft/test",  
-    "description": "测试", 
-    "keywords": ["hanguosoft"], 
+    "name": "hanguosoft/distribution",
+    "description": "分销模块",
+    "keywords": ["hanguosoft","distribution"],
     "license": "MIT", 
     "authors": [
         {
@@ -10,11 +10,11 @@
         }
     ],
     "require": {
-         "php": ">=7.0"
+         "php": ">=7.1"
     },
     "autoload": {
         "psr-4": {
-            "App\\": "app/"
+            "HanGuoSoft\\Distribution": "src/"
         }  
     }
 }
