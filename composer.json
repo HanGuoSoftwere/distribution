@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "HanGuoSoft\\Distribution": "src/"
+            "HanGuoSoft\\Distribution\\": "src/"
         }  
     }
 }
